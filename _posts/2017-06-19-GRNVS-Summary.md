@@ -1,4 +1,7 @@
-# GRNVS
+---
+layout: post
+title: GRNVS Summary
+---
 
 <details>
     <summary>ISO / OSI Schichtenmodell:</summary>
