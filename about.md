@@ -1,12 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
+feature-img: "img/moss.jpeg"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Hi! 
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+You have landed on the personal website of me - a 22 y/o Informatics student home-based in Munich. 
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+As a fellow Wielder of Code, I enjoy contributing to problems that can be solved with software engineering techniques or tools while making the most out of opportunities to improve my understanding of topics and technologies that I've encountered so far. I am steadily honing my algorithmic and computational thinking abilities in order to become a more effective and compatible contributor to the global industry.
+
+During my free-time, you can find me exploring outdoors in nature, exploring / consuming / re-creating foods or holding (and reading) a good book (latest: Born a Crime: Stories from a South African Childhood by Trevor Noah). 
