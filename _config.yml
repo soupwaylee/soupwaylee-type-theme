@@ -15,12 +15,7 @@ theme_settings:
 
   header_text_feature_image:
   footer_text: >
-<<<<<<< HEAD
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
-
-=======
-   Based on <a href="https://github.com/rohanchandra/type-theme">Type Theme</a> by <a href="https://github.com/rohanchandra">Rohan Chandra</a>
->>>>>>> Add acknowledgements
 
   # Icons
   rss: false
@@ -75,4 +70,9 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-gems: [jekyll-paginate]
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
