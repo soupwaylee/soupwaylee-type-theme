@@ -1,13 +1,16 @@
 ---
 layout: post
 title: Setting Up Android SDK on IntelliJ IDEA
+excerpt: Condensed instructions on how to install and add the latest Android SDK to IntelliJ IDE
 ---
 
-Initial situation:
+## Initial situation
 
-You may have already been using [IntelliJ IDEA](https://www.jetbrains.com/idea/ "IntelliJ IDEA: The Java IDE for professional developers by JetBrains"), done some Java development and do not want to install Android Studio additionally, as all of its features are already available in IntelliJ. Note also that IntelliJ IDEA Ultimate features are not available in Android Studio. Lastly, you have already installed [homebrew](https://brew.sh "The missing package manager for macOS") and XCode command line tools. 
+You may have already been using [IntelliJ IDEA](https://www.jetbrains.com/idea/ "IntelliJ IDEA: The Java IDE for professional developers by JetBrains") for a while, done some Java development and do not want to install [Android Studio](https://developer.android.com/studio/index.html "The Official IDE for Android") additionally, as all of its features are already available in IntelliJ. Note also that IntelliJ IDEA Ultimate features are not available in Android Studio. Lastly, you have already installed [homebrew](https://brew.sh "The missing package manager for macOS") and XCode command line tools. 
 
-Use homebrew to install the Android dev tools. Check if homebrew and the formulae are to date by running
+## Instructions
+
+Use homebrew to install the Android dev tools. Check if homebrew and the formulae are up to date by running
 
 ```
   brew update
@@ -43,3 +46,8 @@ Go to Configure > Project Defaults > Project Structure > Platform Settings > SDK
 Navigate to the `/usr/local/Caskroom/android-sdk/<VERSION>` directory and choose it. 
 
 Apply changes and then you're good to go.
+
+## Resources
+* [Deprecated setup instructions](https://gist.github.com/patrickhammond/4ddbe49a67e5eb1b9c03)
+* <https://stackoverflow.com/questions/43433542/stuck-at-android-repositories-cfg-could-not-be-loaded>
+* <https://stackoverflow.com/questions/44840056/the-selected-directory-is-not-a-valid-home-for-android-sdk-intellij-2017>
