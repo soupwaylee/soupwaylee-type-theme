@@ -1,6 +1,9 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "www.soupwaylee.com" # the base hostname & protocol for your site
+baseurl:      "" # the subpath of your site, e.g. /blog/
+url:          "http://www.soupwaylee.com" # the base hostname & protocol for your site
+author:       Stefan Su
+title:        Stefan Su
+description:  A blog with ramblings on code, computer science, cooking and how to become a liver of life
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -8,11 +11,10 @@ theme_settings:
   title: Stefan Su
   avatar: # avatar.png
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "A blog with ramblings on code, computer science, cooking and how to become a liver of life" # used by search engines
 
   # Header and footer text
-  header_text: 
-
+  header_text:
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -25,11 +27,11 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  github: "soupwaylee"
-  linkedin:  "https://www.linkedin.com/in/stfnsu"
+  github:        "soupwaylee"
+  linkedin:      "https://www.linkedin.com/in/stfnsu"
   google_plus:
-  twitter: "soupwaylee"
-  instagram: "soupwaylee"
+  twitter:       "soupwaylee"
+  instagram:     "soupwaylee"
   pinterest:
   reddit:
   soundcloud:
@@ -51,7 +53,7 @@ theme_settings:
   str_email: "Email"
   str_next: "Next"
   str_prev: "Prev"
-  str_continue_reading: "Continue reading"
+  str_continue_reading: "Read more"
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
@@ -73,6 +75,7 @@ sass:
 plugins: 
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
 kramdown:
   input: GFM
   syntax_highlighter: rouge
