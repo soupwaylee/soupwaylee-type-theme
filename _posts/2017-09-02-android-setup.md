@@ -13,41 +13,42 @@ You may have already been using [IntelliJ IDEA](https://www.jetbrains.com/idea/ 
 Use homebrew to install the Android dev tools. Check if homebrew and the formulae are up to date by running
 
 ```
-  brew update
+  $ brew update
 ```
 
 in your terminal.
 
 Then, execute the commands
 ```
-  brew install ant
-  brew install maven
-  brew install gradle
-  brew cask install android-sdk
-  brew cask install android-ndk
+  $ brew install ant
+  $ brew install maven
+  $ brew install gradle
+  $ brew cask install android-sdk
+  $ brew cask install android-ndk
 ```
 
 At this point you can add the Android SDK to your platform settings in IntelliJ. Before that, you need to create the "Platforms" folder, otherwise IntelliJ can't detect the Android SDK and will throw "The selected directory is not a valid home for Android SDK" error message. 
 
-Check the availability of the `platforms;android-26` package
+Check the availability of the `platforms;android-<VERSION>` package
 
 ```
-  sdkmanager --list
+  $ sdkmanager --list
 ```
 
 and install it by running 
 
 ```
-  sdkmanager "platforms;android-26"
+  $ sdkmanager "platforms;android-<VERSION>"
 ```
+where `<VERSION>` is the version that you wish to install. 
 
-Go to Configure > Project Defaults > Project Structure > Platform Settings > SDKs. Click `+` to add a new SDK. A file chooser dialog should pop up. Use <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd> to reveal all hidden folders. **You will need to do that even if you have already enabled showing all files for Finder**. This step is necessary in order to navigate into the hidden `/usr/` directory where the Android SDK is located. 
+In the IntelliJ Welcome Screen, go to Configure > Project Defaults > Project Structure > Platform Settings > SDKs. Click `+` to add a new SDK. A file chooser dialog should pop up. Use <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd> to reveal all hidden folders. **You will need to do that even if you have already enabled showing all files for Finder**. This step is necessary in order to navigate into the hidden `/usr/` directory where your Android SDK is located. 
 
-Navigate to the `/usr/local/Caskroom/android-sdk/<VERSION>` directory and choose it. 
+Lastly, navigate to the `/usr/local/Caskroom/android-sdk/<VERSION>` directory and choose it. In this case, `<VERSION>` references the version that was installed by Homebrew-Cask, 
 
-Apply changes and then you're good to go.
+Apply changes and then you're good to go :thumbsup:.
 
 ## Resources
-* [Deprecated setup instructions](https://gist.github.com/patrickhammond/4ddbe49a67e5eb1b9c03)
+* [Deprecated setup instructions by Patrick Hammond](https://gist.github.com/patrickhammond/4ddbe49a67e5eb1b9c03)
 * <https://stackoverflow.com/questions/43433542/stuck-at-android-repositories-cfg-could-not-be-loaded>
 * <https://stackoverflow.com/questions/44840056/the-selected-directory-is-not-a-valid-home-for-android-sdk-intellij-2017>
