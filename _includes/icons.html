@@ -118,6 +118,14 @@
 </li>
 {% endif %}
 
+{% if site.theme_settings.spotify %}
+<li>
+	<a href="{{ site.theme_settings.spotify }}" title="{{ site.theme_settings.str_follow_on }} Spotify">
+		<i class="fa fa-fw fa-spotify"></i>
+	</a>
+</li>
+{% endif %}
+
 {% if site.theme_settings.stack_exchange %}
 <li>
 	<a href="{{ site.theme_settings.stack_exchange }}" title="{{ site.theme_settings.str_follow_on }} Stack Exchange">

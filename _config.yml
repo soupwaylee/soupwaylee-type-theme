@@ -21,21 +21,22 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: "soupwaylee@gmail.com"
+  email_address:    "soupwaylee@gmail.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github:        "soupwaylee"
-  linkedin:      "https://www.linkedin.com/in/stfnsu"
+  linkedin:         "https://www.linkedin.com/in/stfnsu"
+  github:           "soupwaylee"
   google_plus:
-  twitter:       "soupwaylee"
-  instagram:     "soupwaylee"
+  twitter:          "soupwaylee"
+  instagram:        "soupwaylee"
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  spotify:          https://open.spotify.com/user/1132816104?si=Dsn0CsQZRM6B0bOEClYMUA
+  stack_exchange:   # Full URL
   steam:
   tumblr:
   wordpress:
