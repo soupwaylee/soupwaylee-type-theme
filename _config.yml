@@ -17,7 +17,7 @@ theme_settings:
   header_text:
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
   rss: false
@@ -45,16 +45,20 @@ theme_settings:
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
-  muut_community_name: # From muut.com settings, e.g. "muttcommunityname"
   katex: true # Enable if using math markup
+  search: false # Enable the search feature
 
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
-  str_continue_reading: "Read more"
+  str_next_post: "Next post"
+  str_previous_post: "Previous post"
+  str_next_page: "Next"
+  str_previous_page: "Prev"
+  str_continue_reading: "Continue reading"
+  str_javascript_required_disqus: "Please enable JavaScript to view comments."
+  str_search_no_results: "No results found."
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
@@ -74,12 +78,8 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-plugins: 
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jemoji
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+plugins: [jekyll-paginate]
+theme: jekyll-theme-type
+exclude:
+  - Gemfile
+  - Gemfile.lock
