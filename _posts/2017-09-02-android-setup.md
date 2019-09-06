@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Setting Up Android SDK in IntelliJ IDEA on macOS
-excerpt: Condensed instructions on how to install and add the latest Android SDK to IntelliJ IDE on macOS
 ---
+
+Condensed instructions on how to install and add the latest Android SDK to IntelliJ IDE on macOS
 
 ## Initial situation
 
