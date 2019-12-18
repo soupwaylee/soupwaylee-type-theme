@@ -41,3 +41,5 @@ I enjoy going mountaineering, working on my Yoga practice, consuming / re-creati
     * [November](https://open.spotify.com/playlist/0YY7livhBmMQCCh6bMlWM1?si=FNBE-MRnSz603Ba7Qv8agg)
     * [October](https://open.spotify.com/playlist/6gA1xIZoUKPSgOeUnooI3y?si=birYguE1RWePsTbHlXJgbA)
     * [September](https://open.spotify.com/playlist/2U6o3DNUHlL6zCBrqqd1iT?si=QfpKbABuSROEV5VCa2xd9A)
+
+(Photo credits: [ideer photography](https://ideer.format.com/))
