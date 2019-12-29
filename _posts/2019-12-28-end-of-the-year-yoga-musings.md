@@ -18,7 +18,7 @@ But lengthening does not happen on the upper segment of your body only but often
 
 If a pose comes very very easy for you, you are likely missing some additional details. Or maybe not, in that case props to you, you're doing great honey 🤜. Here are some personal **Q&A**'s that you can raise during your practice to challenge yourself. **Q&A** as in **Q**uestion and exemplary **A**pplications, ha. 
 
-* **Q**: Are you putting equal weight in both of your feet while engaging your legs? My teacher sometimes (jokingly?) tells us to engage and pull up our knee caps to the point that it feels like we will end up tearing up your mat? **A**: triangle, pyramid pose
+* **Q**: Are you putting equal weight in both of your feet while engaging your legs? My teacher sometimes (jokingly?) tells us to engage and pull up our knee caps to the point that it feels like we will end up tearing apart our mat? **A**: triangle, pyramid pose
 * **Q**: Are both of your bent knees on one line orthogonally to the long side of your mat and your hips aligned and pointing straight ahead? **A**: twisted chair pose (opt: with arms extended)
 * **Q**: (the latest:) Are you consciously doing symmetrical variations of your asanas and transitions on each side? **A**: Clasping of both hands in humble warrior or forward bend with shoulder opener (which index finger is on top when interlocking fingers), folding feet from chaturanga to up dog and then to down dog (e.g. left foot first after left foot forward and vice versa)
 
