@@ -34,4 +34,6 @@ As a software engineer in the team, you may have this really cool idea that you'
 
 It's fairly easy to agree on a generic item, may it be a task on the Kanban Board or an item of the User Story Map, which boosts the teams morale, because "Hey, we went through so many items in such a short period of time! Such productivity, wow!" However, it might be the case that different team members will actually have varying interpretations of that item. This misalignment will most likely manifest itself later on when it turns out that the team hasn't been on the same page after all and things need to be discussed all over again. So it's best to initially take enough time to thoroughly discuss ideas and to finally formulate them in the most specific, concise way possible.
 
+---
+
 *Success and pitfalls are best experienced in practice, ideally by using as many Post-Its as possible (which is what the "P" in DPS actually stands for). And what better opportunity to do it other than at DPS in the most gorgeous city of Germany with other like-minded international people? So go make up your mind and perhaps join the next batch!*
