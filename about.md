@@ -23,6 +23,8 @@ I enjoy going mountaineering, working on my Yoga practice, consuming / re-creati
 |November|November|
 |September| | -->
 
+* 2020
+    * [January](https://open.spotify.com/playlist/1i8yCnwVTZyStuGyZuAIAK?si=bJPMb155S1u0vsLDPcbDTA)
 * [2019](https://open.spotify.com/playlist/73x3YLjYjX4drYSLS7EOT7?si=lTSsziUdSzGcwmCUagCvjQ)
     * [December](https://open.spotify.com/playlist/31xtLXjuRTq8WcAz2x08UL?si=mFFby52CTaKdpeFEMI0XCA)
     * [November](https://open.spotify.com/playlist/02OjNsL8LnmlJiSZIUvKiA?si=YoKuJI1XRqWbOQJSx7nMJQ)
