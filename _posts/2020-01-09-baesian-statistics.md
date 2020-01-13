@@ -6,14 +6,14 @@ title: A Corny Introduction to Bae-sian Statistics
 ![]({{ site.baseurl }}/img/corny.jpg){:class="img-responsive"}
 Most Machine Learning theory books start out with an introduction into probability theory, specifically Bayesian statistics. Since balls and urns are boring, I adapted a cornier example. We'll round this off with an outlook into why this topic important in the ML context.
 
-You're going to the movies  want to share a medium popcorn with bae. By the time you get to the front of the popcorn queue you start a messy discussion about the flavor to the point where the cashier became really irritated and put in two scoops without consulting you further. Unfortunately, during your intense debate, you missed out on which buckets the cashier took the popcorn from, but from the corner of your eye you saw that *at least one of the scoops was (to your dismay) salty*. You could settle with a mix of sweet and salty, but a salty-only bag is a no-go. As you exit the popcorn queue, you think that the cashier might still remember what he gave out, but you are too irritated so you decide not to go back and ask. Instead, you take a few breaths and decide to conduct a test with your partner, because that would be much faster and you're very anxious to know this piece of information so that in the worst case you can go back and buy another bag of sweet popcorn for yourself (ugh!).
+You're going to the movies  want to share a medium popcorn with bae. By the time you get to the front of the popcorn queue you start a messy discussion about the flavor to the point where the cashier becomes really irritated and puts in two scoops without consulting you further. Unfortunately, during your intense debate, you missed out on which buckets the cashier took the popcorn from, but from the corner of your eye you saw that *at least one of the scoops was (to your dismay) salty*. You could settle with a mix of sweet and salty, but a salty-only bag is a no-go. As you exit the popcorn queue, you think that the cashier might still remember what he gave out, but you choose not to go back and ask. Instead, you take a few breaths and decide to conduct a test with your partner, because that would be much faster and you're very anxious to know this piece of information so that in the worst case you can go back into line and buy another bag of sweet popcorn for yourself (ugh!).
 
-While waiting in the queue for admission, you pull out an unused piece of tissue and jot down the following mutually exclusive and exhaustive *hypotheses* *H* with *W* for s**W**eet and *A* for s**A**lty based on what you saw.
+While standing in the queue for admission, you pull out an unused piece of tissue and jot down the following mutually exclusive and exhaustive *hypotheses* *H* with *W* for s**W**eet and *A* for s**A**lty based on what you saw.
 
 - *AA* (the cashier put two scoops of salty popcorn)
 - *AW* (the cashier put a scoop of salty and a scoop of sweet popcorn)
 
-Initially, you are equally uncertain about both assumptions and therefore you assign them  uniformly distributed *prior probabilities* of 0.5.
+Initially, you are equally uncertain about both assumptions and therefore you assign them uniformly distributed *prior probabilities* of 0.5.
 
 Since your partner is very brave, they decide to go ahead and initiate the experiment. Your partner shuffles the whole bag and randomly takes out *a handful of popcorn, which equals a scoop because they have very large hands*, and stuffs it inside their mouth (all at once). Without swallowing, they declare that they taste *salty only* and a piece of popcorn flies out of their mouth and onto your new jacket. Because you've been dating for quite a while now and you've become super comfortable with each other, you decide to let it go just this time and take note of the *data* *D* (and the piece of salty popcorn on your jacket) that you just obtained.
 
@@ -26,7 +26,7 @@ Somehow you even manage draw a little table, though it's quite jiggly.
 | *AA* | 0.5 |  |  |  |
 | *AW* | 0.5 |  |  |  |
 
-You then proceed to fill out the *likelihood* column by asking yourself: "What is the probability of obtaining the data *D* we observed assuming that the hypothesis *H* is true?" To your convenience, you assume that with a random hand(scoop)ful of popcorn *you can either retrieve sweet-only or salty-only, but not a mix of both*.
+You then proceed to fill out the *likelihood* column by asking yourself: "What is the probability of obtaining the data *D* we observed assuming that the hypothesis *H* is true?" To your convenience, you assume that with a random hand(scoop)ful of popcorn *you can either retrieve sweet-only or salty-only, but never a mix of both*.
 
 Assuming that there were two scoops of salty (*AA*) in the bag, the likelihood of your partner being able to retrieve a handful of salty is 100%. But what of it were to be a mixed bag of popcorn (*AW*)? Chances of retrieving a salty handful and a sweet handful are the same, so the probability of obtaining our actual *D* are 50%. In your mind you construct the following table based on all possible outcomes.
 
