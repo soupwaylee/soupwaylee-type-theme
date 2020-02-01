@@ -24,24 +24,25 @@ I enjoy going mountaineering, working on my Yoga practice, consuming / re-creati
 |September| | -->
 
 * 2020
-    * [January](https://open.spotify.com/playlist/1i8yCnwVTZyStuGyZuAIAK?si=bJPMb155S1u0vsLDPcbDTA)
+    * <iframe src="https://open.spotify.com/embed/playlist/6Z9Pus1xDCPBhwL40LDCw7" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    * <iframe src="https://open.spotify.com/embed/playlist/1i8yCnwVTZyStuGyZuAIAK" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 * [2019](https://open.spotify.com/playlist/73x3YLjYjX4drYSLS7EOT7?si=lTSsziUdSzGcwmCUagCvjQ)
-    * [December](https://open.spotify.com/playlist/31xtLXjuRTq8WcAz2x08UL?si=mFFby52CTaKdpeFEMI0XCA)
-    * [November](https://open.spotify.com/playlist/02OjNsL8LnmlJiSZIUvKiA?si=YoKuJI1XRqWbOQJSx7nMJQ)
-    * [October](https://open.spotify.com/playlist/4xvXwkrDPwqGHTM1Ap8H8K?si=vgoYeYXwS0mk1ldoISI-YQ)
-    * [September](https://open.spotify.com/playlist/3gsFEFoV06DzVw0UUbevUo?si=kEhrrOgRQRa1yeJ3k2cnqA)
-    * [August](https://open.spotify.com/playlist/2BOYQGhssE2vp4oCs6ddj1?si=oeZUgiYoQFuC1-dgsfzqDA)
-    * [July](https://open.spotify.com/playlist/0K3emk4VhvJGiCSNEJxv3N?si=ZN2DScHLQf6N0JKHWVgKQA)
-    * [June](https://open.spotify.com/playlist/1ZPX2NrMRVsvwLcyHAnUPw?si=B0OCnnf1QFObSNICkGLMsg)
-    * [May](https://open.spotify.com/playlist/6xR5YTjgnlCsK4Zy7jyQ5g?si=y031vJ_BSEiFQZABh7BXpQ)
-    * [April](https://open.spotify.com/playlist/0ZZ9pshuMJQyaxZduzpYjE?si=iIZ9iotDTrqsie-DljCPMA)
-    * [March](https://open.spotify.com/playlist/19L1dq1mcaIArPUmEaVeLQ?si=uVPfrC39So2ofkga3NNuVg)
-    * [February](https://open.spotify.com/playlist/3OKDjAqCgtDs2oy8CPRmYZ?si=UlkNfqmKSAOH3NHKjcofew)
-    * [January](https://open.spotify.com/playlist/3yKFohEwDC5d8D02hNxfTq?si=V5uMDcVqSMmbOUsB9OXuwg)
+    * <iframe src="https://open.spotify.com/embed/playlist/31xtLXjuRTq8WcAz2x08UL" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    * <iframe src="https://open.spotify.com/embed/playlist/02OjNsL8LnmlJiSZIUvKiA" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    * <iframe src="https://open.spotify.com/embed/playlist/4xvXwkrDPwqGHTM1Ap8H8K" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    * <iframe src="https://open.spotify.com/embed/playlist/3gsFEFoV06DzVw0UUbevUo" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    * <iframe src="https://open.spotify.com/embed/playlist/2BOYQGhssE2vp4oCs6ddj1" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    * <iframe src="https://open.spotify.com/embed/playlist/0K3emk4VhvJGiCSNEJxv3N" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    * <iframe src="https://open.spotify.com/embed/playlist/1ZPX2NrMRVsvwLcyHAnUPw" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    * <iframe src="https://open.spotify.com/embed/playlist/6xR5YTjgnlCsK4Zy7jyQ5g" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    * <iframe src="https://open.spotify.com/embed/playlist/0ZZ9pshuMJQyaxZduzpYjE" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    * <iframe src="https://open.spotify.com/embed/playlist/19L1dq1mcaIArPUmEaVeLQ" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    * <iframe src="https://open.spotify.com/embed/playlist/3OKDjAqCgtDs2oy8CPRmYZ" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    * <iframe src="https://open.spotify.com/embed/playlist/3yKFohEwDC5d8D02hNxfTq" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 * [2018](https://open.spotify.com/playlist/3nL82aoFRTV6Y5e6V2RUCk?si=gShn82CrTj2a9STDwng1yw)
-    * [December](https://open.spotify.com/playlist/6PR8lQ8WDcH2iOt82LyahQ?si=ZC6pFcjGQVWKvSK3VVRt4Q)
-    * [November](https://open.spotify.com/playlist/0YY7livhBmMQCCh6bMlWM1?si=FNBE-MRnSz603Ba7Qv8agg)
-    * [October](https://open.spotify.com/playlist/6gA1xIZoUKPSgOeUnooI3y?si=birYguE1RWePsTbHlXJgbA)
-    * [September](https://open.spotify.com/playlist/2U6o3DNUHlL6zCBrqqd1iT?si=QfpKbABuSROEV5VCa2xd9A)
+    * <iframe src="https://open.spotify.com/embed/playlist/6PR8lQ8WDcH2iOt82LyahQ" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    * <iframe src="https://open.spotify.com/embed/playlist/0YY7livhBmMQCCh6bMlWM1" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    * <iframe src="https://open.spotify.com/embed/playlist/6gA1xIZoUKPSgOeUnooI3y" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    * <iframe src="https://open.spotify.com/embed/playlist/2U6o3DNUHlL6zCBrqqd1iT" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 (Photo credits: [ideer photography](https://ideer.format.com/))
